@@ -1,0 +1,3 @@
+2024-07-10 12:22:05.756597+09:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "QUESTION" not found (this database is empty); SQL statement:
+select * from question [42104-224]
